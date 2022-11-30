@@ -6,6 +6,10 @@ variable "subnet_no" {
   default = "66177"
 }
 
+variable "server_name" {
+  default = "sy-terraform-test"
+}
+
 variable "server_image_product_code" {
   default = "" // 추가 필요 
 }

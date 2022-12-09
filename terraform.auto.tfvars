@@ -2,7 +2,7 @@ region = "KR"
 
 subnet_no = "66177"
 
-server_name = "ncp-demo-server"
+server_name = ""
 
 server_image_product_code = "" 
 
